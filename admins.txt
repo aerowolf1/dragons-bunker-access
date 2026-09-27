@@ -2,3 +2,9 @@
 # Blank lines and lines beginning with # are ignored.
 # The four built-in admins already have access and do not need listing here.
 # Add additional admins below. Leave empty to grant nobody extra access.
+aerowolf1
+KoffieBean
+Aurekk
+Protagen
+loprov
+Ari Wasabii
